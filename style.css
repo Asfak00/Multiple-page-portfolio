@@ -419,6 +419,7 @@ hr {
 
 .ft {
     margin: 2em 2em;
+   cursor: pointer;
 }
 
 .first-details {
